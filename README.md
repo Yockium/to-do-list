@@ -6,9 +6,6 @@ This is a simple To-Do List application built using HTML, SCSS, and JavaScript. 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Overview](#code-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Add new tasks to the list
